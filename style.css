@@ -1,0 +1,133 @@
+body {
+	font-family: 'Assistant', sans-serif;
+       }
+
+/*navigation*/
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+
+	font-size: 1.3rem;
+	padding-right: 1.4rem;
+	color: black !important;
+	
+}
+
+.navbar .navbar-nav .nav-item .nav-link:hover {
+
+background: linear-gradient(360deg, #FD6F46 10%, #FB9832 360%) !important;
+
+}
+
+.navbar .navbar-nav .nav-item .nav-link.active {
+
+background: linear-gradient(360deg, #FD6F46 10%, #FB9832 360%) !important;
+
+}
+
+.logo-size {
+
+	width: 100px;
+}
+
+
+/*home page */
+.height-home {
+
+	height: 100vh;
+		
+}
+
+#home-header {
+background:linear-gradient(rgba(1,1,1,.1), rgba(1,1,1,.6)),url("img/back.jpeg");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+}
+
+.white {
+	color: black;
+	text-shadow: 3px 3px 6px white;
+}
+
+
+
+.title-underline {
+
+    width: 280px;
+	height: 8px;
+	margin: 0 auto;
+	background: linear-gradient(360deg, #FD6F46 10%, #FB9832 360%);
+
+}
+
+.orange {
+
+	background: linear-gradient(360deg, #FD6F46 10%, #FB9832 360%);
+}
+
+.orange-text {
+
+	color:#ff471a;
+}
+
+
+
+.sewing, .services {
+
+list-style: none;
+
+}
+.img-services {
+
+	width:180px;
+
+}
+
+#services-style {
+
+font-family: 'Sniglet', cursive;
+min-height:40%;
+width: 100%;
+}
+
+
+
+
+/*pricelist*/
+
+.table td {
+	font-family: 'Fira Sans', sans-serif;
+}
+
+/*contact*/
+
+#store-img{
+
+background-image:url("img/store-img.jpg");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 100vh;
+
+}
+
+.contact-data {
+
+	font-family: 'Fira Sans', sans-serif;
+}
+
+#contact {
+
+	background:white;
+
+}
+
+
+
+
+
